@@ -11,13 +11,13 @@ I'm Luiz Henrique Evangelista, a student of programming, web design, and systems
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talonflame1612&layout=compact&theme=dracula)
 
-# Learning Progress
+## Learning Progress
 
 | Language     | Progress |
 |--------------|----------|
-| HTML/CSS     | ![40%](https://progress-bar.dev/90) |
-| JavaScript   | ![5%](https://progress-bar.dev/70) |
-| Python       | ![10%](https://progress-bar.dev/60) |
+| HTML/CSS     | ![40%](https://img.shields.io/badge/Progress-40%25-yellow) |
+| JavaScript   | ![5%](https://img.shields.io/badge/Progress-5%25-red) |
+| Python       | ![10%](https://img.shields.io/badge/Progress-10%25-orange) |
 
 
 ## About Me 🌟
